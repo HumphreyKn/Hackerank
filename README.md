@@ -43,5 +43,5 @@ Not Wierd
 ```
 #### Explanation 1
 
-$n=24$
+$n=24$\\
 $n>20$ and `n` is even, so it is not wierd.
